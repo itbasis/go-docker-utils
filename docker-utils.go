@@ -1,4 +1,4 @@
-package dockerUtils
+package dockerutils
 
 import (
 	"os"
