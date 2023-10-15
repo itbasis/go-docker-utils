@@ -1,0 +1,7 @@
+= Go docker utils
+---
+
+image:https://img.shields.io/github/go-mod/go-version/itbasis/go-docker-utils[GitHub go.mod Go version]
+image:https://img.shields.io/badge/godoc-reference-blue.svg[link=https://pkg.go.dev/github.com/itbasis/go-docker-utils]
+image:https://img.shields.io/github/v/tag/itbasis/go-docker-utils[GitHub tag (with filter)]
+https://goreportcard.com/report/github.com/itbasis/go-docker-utils[image:https://goreportcard.com/badge/github.com/itbasis/go-docker-utils[Go Report Card]]
